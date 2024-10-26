@@ -1,2 +1,2 @@
 <h1>Web Store 🏪</h1>
-<p>Fiz uma simples página web, é basicamente uma lojinha virtual, feita em react js, nada muito complexo, apenas para treinar meu conhecimento.</p>
+<p>Desenvolvi uma página web simples, uma loja virtual feita em React.js. Este projeto é básico e foi criado apenas para praticar meus conhecimentos na tecnologia.</p>
